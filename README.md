@@ -25,5 +25,8 @@ Database:crud-node
 Porta:5433
 
 Passo 6:
+Rodar "docker-compose run nodejs node db_setup/prepare.js"
+
+Passo 7:
 Acessar a aplicação na "localhost:3091
 
